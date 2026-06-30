@@ -15,8 +15,8 @@ Think of a virtual environment as a private sandbox for this specific project. I
 ### Step 1: Clone the Repository
 First, bring the code from GitHub down to your local machine. Open your terminal (or Command Prompt) and run:
 ```bash
-git clone [https://github.com/your-org/data-pipeline-training.git](https://github.com/your-org/data-pipeline-training.git)
-cd data-pipeline-training
+git clone https://github.com/swapnil-kondana/sdlc-training-repo
+cd sdlc-training-repo
 ```
 
 ### Step 2: Create the Virtual Environment
