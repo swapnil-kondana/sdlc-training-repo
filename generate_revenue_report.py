@@ -40,7 +40,7 @@ def run_pipeline():
     sql_query = f"""
         SELECT 
             transaction_date,
-            total_revenu, 
+            total_revenue, 
             customer_region
         FROM 
             daily_sales_data
